@@ -7,9 +7,9 @@
     <a href="/home">跳转到应用的首页</a>
     <a href="/interface/system/router/detail?pageInfo=我是上个页面传递来的数据">携带数据跳转到应用的详情页</a>
     <text class="item-title">a标签的letter-spacing属性</text>
-    <a href="/" class="letter-spacing10px">字间距为10px</text>
-    <a href="/" class="letter-spacing20px">字间距为20px</text>
-    <a href="/" class="letter-spacing30px">字间距为30px</text>
+    <a href="/" class="letter-spacing10px">字间距为10px</a>
+    <a href="/" class="letter-spacing20px">字间距为20px</a>
+    <a href="/" class="letter-spacing30px">字间距为30px</a>
   </div>
 </template>
 
